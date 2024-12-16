@@ -16,10 +16,6 @@ Make sure you have the following packages installed before running the script:
 - openpyxl
 - matplotlib
 - scipy
-You can install these packages using `pip`:
-
-```bash
-pip install pandas numpy openpyxl matplotlib scipy
 
 ## Usage
 
